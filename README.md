@@ -1,13 +1,75 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hossameldin Ali Elshamsi</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+# Mohamed Hossam Elshamsi
 
-- 🌱 I’m currently learning **Advanced C# concepts**
+**Junior Penetration Tester | Web, API & Android Security | Python | OWASP**
 
-- 📫 How to reach me **mohammed.hossam.elshamsi@gmail.com**
+📍 Egypt (Open to Cairo, hybrid, and remote opportunities)  
+📧 mohammed.hossam.elshamsi@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hossameldin) | [Portfolio](https://github.com/MoHossShamsi/penetration-testing-portfolio)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## About
+
+I am a Computer and Systems Engineering graduate focused on web, API, and mobile security testing. I combine a developer’s understanding of code with hands-on penetration-testing skills to find, explain, and help fix security issues.
+
+My goal is to work as a junior penetration tester or VAPT analyst, performing structured assessments and writing clear, actionable reports for developers and security teams.
+
+---
+
+## Skills
+
+- **Web & API Security:** Authentication, Authorization, IDOR, SQLi, XSS, CSRF, SSRF, File Upload, Path Traversal, Business Logic
+- **Mobile Security:** Android static and dynamic analysis (JADX, MobSF, Frida, ADB, Burp Suite)
+- **Network Security:** Reconnaissance, enumeration, exploitation, privilege escalation on authorized labs
+- **Tools:** Burp Suite, Nmap, OWASP ZAP, MobSF, JADX, Frida, Metasploit (basic), Git, Linux, Windows
+- **Programming:** Python, Java, JavaScript, HTML/CSS
+- **Reporting:** Vulnerability description, reproduction steps, impact, CVSS, remediation, retest guidance
+
+---
+
+## Training & Experience
+
+- **Penetration Testing Internship** – Cylert (Apr 2026 – Jul 2026)  
+- **NTI Hire Ready – Red Team Track** – National Telecommunication Institute (Oct 2025 – Jan 2026)  
+- **ITI Python Web Development Summer Training** – 2023  
+- **B.Eng. in Computer and Systems Engineering** – Minia University (2019–2024)
+
+I have completed structured training in web, mobile, and network penetration testing, along with Python-based security automation.
+
+---
+
+## Labs & Practice
+
+- **PortSwigger Web Security Academy:** Completed 38% of labs (XSS, SQLi, SSRF, CSRF, Access Control, File Upload, Path Traversal, Business Logic, Race Conditions)  
+- **DVWA:** Practiced injection, authentication, authorization, and file-upload scenarios  
+- **Android Security:** Completed ~75% of DIVA, AllSafe, and BeetleBug labs  
+- **Network:** Basics plus several machines on TryHackMe  
+- **Bug Bounty:** Started hunting on authorized programs; focusing on access control, API, and business-logic issues
+
+---
+
+## Projects & Portfolio
+
+- **Penetration Testing Portfolio** – Structured reports for web, API, Android, and network assessments in authorized lab environments.  
+  🔗 [github.com/MoHossShamsi/penetration-testing-portfolio](https://github.com/MoHossShamsi/penetration-testing-portfolio)
+
+- **Posture Analysis Android Application** – Graduation project (Grade: Excellent)
+
+- **DVLD – Driver’s and Vehicles License Management System** – Web application for managing licenses and vehicles
+
+- **Security Playbooks** – Personal notes and playbooks for authentication/authorization, OS command injection, API security, XSS, and more
+
+---
+
+## What I’m Working On Now
+
+- Deepening web and API security (access control, SSRF, business logic, race conditions)  
+- Building structured network and Active Directory practice  
+- Writing professional vulnerability reports and case studies  
+- Applying for junior penetration tester, VAPT analyst, and application-security roles in Egypt
+
+---
+
+## Contact
+
+For opportunities or collaboration, please reach out via email or LinkedIn.
