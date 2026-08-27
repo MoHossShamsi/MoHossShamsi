@@ -2,7 +2,7 @@
 
 **Junior Penetration Tester | Red Team Trainee (NTI) | Web, API & Android Security | TryHackMe Top 15%**
 
-📍 Egypt (Open to Cairo, hybrid, and remote opportunities)  
+📍 Egypt (Cairo, hybrid, and remote opportunities)  
 📧 mohammed.hossam.elshamsi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hossameldin) | [Portfolio](https://github.com/MoHossShamsi/penetration-testing-portfolio)
 
